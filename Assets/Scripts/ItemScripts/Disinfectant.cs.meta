@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 9e5774faddbcf3349b6a6025ed610a76
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - weaponStatus: {instanceID: 0}
+  - ammoDisplay: {instanceID: 0}
+  - weaponName: {instanceID: 0}
+  - damageDisplay: {instanceID: 0}
+  - crosshair: {instanceID: 0}
+  - raycastObject: {instanceID: 0}
+  - weaponDesc: {instanceID: 0}
+  - player: {instanceID: 0}
+  - image: {instanceID: 0}
+  - source: {instanceID: 0}
+  - muzzleFlash: {instanceID: 0}
+  - upgrade: {fileID: 8300000, guid: fed17c7716464ce4d8e7409a166b50e4, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
